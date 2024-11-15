@@ -23,8 +23,6 @@ A custom shell implementation in C as part of the 42 curriculum. **Minishell** r
 - **Process control**
 - **Memory management**
 
----
-
 ## ✨ Features
 
 - 🔄 **Interactive Mode:** Provides a prompt for user commands.
@@ -56,9 +54,9 @@ A custom shell implementation in C as part of the 42 curriculum. **Minishell** r
 ## 🚀 Usage
 
 ### Start the shell:
-```bash
-./minishell
-```
+  ```bash
+  ./minishell
+  ```
 
 ---
 
